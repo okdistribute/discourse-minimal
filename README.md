@@ -11,7 +11,8 @@ Mad street cred to [angetran](http://angetran.me/) for design direction.
 
 At ```/admin/customize/css_html``` create a new customization. 
 
-In the Stylesheet section, copy the contents of ```minimal.css```.
+In the Stylesheet AND Mobile Stylesheets section, copy the contents of ```minimal.css```.
+In the Mobile Stylesheet section, copy the contents of ```minimal-mobile.css```.
 
 Save, and hit 'Enable' on the bottom right hand corner. 
 
