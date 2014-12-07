@@ -23,10 +23,6 @@ th.latest {
     font-size: 18px;
 }
 
-.ember-view .active,
-{
-    display: none;
-}
 
 a[href*=new],
 a[href*=unread] {
