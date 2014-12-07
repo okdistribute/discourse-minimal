@@ -31,6 +31,7 @@ Copy the contents of ```minimal.js```.
   * Remove *Latest,* and *Topics* from the category overview.
   * Remove the category list from the hamburger menu.
   * Remove the user stats below the OP's post
+  * Remove zebra stripes from category list
   
 ### Why?
 
