@@ -46,3 +46,6 @@ display: none !important;
 .latest-topics-link{
     display: none;
 }
+.category-dropdown-menu i {
+    display: none;
+}

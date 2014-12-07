@@ -5,4 +5,31 @@ Fixes discourse so that it is minimal: more understandable and friendlier to the
 
 ### Installation
 
-In your discourse instance, go to ```/admin/customize/css_html``` and copy-paste the ```minimal.css``` file into the 'Stylesheet' section.
+#### Copy CSS
+
+At ```/admin/customize/css_html``` create a new customization. 
+
+In the Stylesheet section, copy the contents of ```minimal.css```.
+
+Save, and hit 'Enable' on the bottom right hand corner. 
+
+#### Copy JS
+
+At ```/admin/customize/site_text/head``` make sure you see 'HTML head'
+
+Copy the contents of ```minimal.js```.
+
+### Features
+
+  * Top bar filters are too numerous. Minimal only allows *Starred,* *Top,* *Latest,* and *Categories.* *New* and *Unread* are removed. 
+  * Notification icon changed from a talk bubble to a bell.
+  * Private categories should have a lock icon, not a group icon. (BROKEN FOR CATEGORY DROPDOWN LIST)
+  * Remove *Activity,* *Users,* and *Posts* from the topic overview.
+  * Remove *Latest,* and *Topics* from the category overview.
+  * Remove the category list from the hamburger menu.
+  
+### Why?
+
+Essentially, discourse is too complicated for most of the population. We want to simplify the interface to make it easier to undersatnd for those coming from Facebook. We need the simplified interface that Medium brings with the complexity of a forum.
+
+### Screenshots
