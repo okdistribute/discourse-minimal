@@ -21,6 +21,7 @@ Copy the contents of ```minimal.js```.
 
 ### Features
 
+  * Automatically go to the *Categories* listing upon initial landing.
   * Top bar filters are too numerous. Minimal only allows *Starred,* *Top,* *Latest,* and *Categories.* *New* and *Unread* are removed. 
   * Notification icon changed from a talk bubble to a bell.
   * Private categories should have a lock icon, not a group icon. (BROKEN FOR CATEGORY DROPDOWN LIST)
@@ -30,6 +31,5 @@ Copy the contents of ```minimal.js```.
   
 ### Why?
 
-Essentially, discourse is too complicated for most of the population. We want to simplify the interface to make it easier to undersatnd for those coming from Facebook. We need the simplified interface that Medium brings with the complexity of a forum.
+Essentially, discourse is too complicated and has too many features visible for most of the population to understand. We want to simplify the interface to make it easier to undersatnd for those whose primary mode of communication online is email and Facebook comments. We need the simplified interface that Medium brings with the complexity of a forum.
 
-### Screenshots
