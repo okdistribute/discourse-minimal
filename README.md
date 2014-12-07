@@ -5,4 +5,4 @@ Fixes discourse so that it is minimal: more understandable and friendlier to the
 
 ### Installation
 
-In your discourse instance, go to ```/admin/customize/css_html``` and copy-paste this css file into the 'Stylesheet' section.
+In your discourse instance, go to ```/admin/customize/css_html``` and copy-paste the ```minimal.css``` file into the 'Stylesheet' section.
