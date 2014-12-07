@@ -1,7 +1,7 @@
 discourse-minimal
 =================
 
-Fixes (discourse)[http://discourse.org] so that it is minimal: more understandable and friendlier. The understandability of medium with the complexity of the forum. 
+Fixes [discourse](http://discourse.org) so that it is minimal: more understandable and friendlier. The understandability of medium with the complexity of the forum. 
 
 ### Installation
 
