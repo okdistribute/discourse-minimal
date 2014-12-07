@@ -23,6 +23,9 @@ th.latest {
     font-size: 18px;
 }
 
+#site-map-dropdown .category-links {
+    display: none;
+}
 
 a[href*=new],
 a[href*=unread] {
