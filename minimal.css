@@ -1,0 +1,48 @@
+.topic-list .views {
+    display: none !important;
+}
+
+.topic-list.categories th.category,
+.topic-list .posters,
+.topic-list .activity {
+    display: none !important;
+}
+
+td.stats, 
+.stats.topics,
+td.latest,
+th.latest {
+    display: none !important;
+}
+
+.topic-list.categories>tbody>tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+.subcategories .badge-category {
+    font-size: 18px;
+}
+
+.ember-view .active,
+{
+    display: none;
+}
+
+a[href*=new],
+a[href*=unread] {
+display: none !important;
+}
+
+.d-header {
+    box-shadow: none; 
+}
+.topic-map {
+    display: none;
+}
+.topic-list.categories td.category{
+  border-bottom: 1px solid #eee !important;
+}
+.category-links, 
+.latest-topics-link{
+    display: none;
+}
