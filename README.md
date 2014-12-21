@@ -1,20 +1,20 @@
 discourse-minimal
 =================
 
-Fixes [discourse](http://discourse.org) so that it is more understandable. The simplicity of medium with the complexity of the forum. 
+Fixes [discourse](http://discourse.org) so that it is more understandable. The simplicity of medium with the complexity of the forum.
 
-Mad street cred to [angetran](http://angetran.me/) for design direction. 
+Mad street cred to [angetran](http://angetran.me/) for design direction.
 
 ### Installation
 
 #### Copy CSS
 
-At ```/admin/customize/css_html``` create a new customization. 
+At ```/admin/customize/css_html``` create a new customization.
 
 In the Stylesheet AND Mobile Stylesheets section, copy the contents of ```minimal.css```.
 In the Mobile Stylesheet section, copy the contents of ```minimal-mobile.css```.
 
-Save, and hit 'Enable' on the bottom right hand corner. 
+Save, and hit 'Enable' on the bottom right hand corner.
 
 #### Copy JS
 
@@ -24,8 +24,7 @@ Copy the contents of ```minimal.js```.
 
 ### Features
 
-  * Automatically go to the *Categories* listing upon initial landing.
-  * Top bar filters are too numerous. Minimal only allows *Starred,* *Top,* *Latest,* and *Categories.* *New* and *Unread* are removed. 
+  * Top bar filters are too numerous. Minimal only allows *Starred,* *Top,* *Latest,* and *Categories.* *New* and *Unread* are removed.
   * Notification icon changed from a talk bubble to a bell.
   * Private categories should have a lock icon, not a group icon. (BROKEN FOR CATEGORY DROPDOWN LIST)
   * Remove *Activity,* *Users,* and *Posts* from the topic overview.
@@ -33,11 +32,11 @@ Copy the contents of ```minimal.js```.
   * Remove the category list from the hamburger menu.
   * Remove the user stats below the OP's post
   * Remove zebra stripes from category list
-  
+
 ### Why?
 
 Essentially, discourse is too complicated and has too many features visible for most of the population to understand. We want to simplify the interface to make it easier to undersatnd for those whose primary mode of communication online is email and Facebook comments. We need the simplified interface that Medium brings with the complexity of a forum.
- 
+
 ### TODO
   * Attack the posting page aggressively.
 
